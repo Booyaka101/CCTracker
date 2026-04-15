@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: CC Tracker
+## Notes: Displays timers for crowd control, silences, and interrupts on you.
+## Author: AscensionSniper
+## Version: 1.0.0
+## DefaultState: Enabled
+## SavedVariables: CCTrackerDB
+
+CCTracker.lua
